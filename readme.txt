@@ -1,4 +1,4 @@
-Readme:
+Codes for GAN part.
 
 python2 cf_gan.py
 
